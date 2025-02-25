@@ -1,0 +1,323 @@
+{
+	"success": true,
+	"data": {
+		"address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+		"filter": "transfer",
+		"days": 90,
+		"data": [
+			{
+				"day_unix": 1736640000,
+				"day": 20250112,
+				"num_transfers": "210012",
+				"total_trans_amount": 95569880
+			},
+			{
+				"day_unix": 1736726400,
+				"day": 20250113,
+				"num_transfers": "289710",
+				"total_trans_amount": 194423150
+			},
+			{
+				"day_unix": 1736812800,
+				"day": 20250114,
+				"num_transfers": "283724",
+				"total_trans_amount": 135128130
+			},
+			{
+				"day_unix": 1736899200,
+				"day": 20250115,
+				"num_transfers": "357119",
+				"total_trans_amount": 115918776
+			},
+			{
+				"day_unix": 1736985600,
+				"day": 20250116,
+				"num_transfers": "397817",
+				"total_trans_amount": 120640040
+			},
+			{
+				"day_unix": 1737072000,
+				"day": 20250117,
+				"num_transfers": "424604",
+				"total_trans_amount": 199191200
+			},
+			{
+				"day_unix": 1737158400,
+				"day": 20250118,
+				"num_transfers": "394445",
+				"total_trans_amount": 761806000
+			},
+			{
+				"day_unix": 1737244800,
+				"day": 20250119,
+				"num_transfers": "361144",
+				"total_trans_amount": 685737600
+			},
+			{
+				"day_unix": 1737331200,
+				"day": 20250120,
+				"num_transfers": "388217",
+				"total_trans_amount": 342251840
+			},
+			{
+				"day_unix": 1737417600,
+				"day": 20250121,
+				"num_transfers": "488690",
+				"total_trans_amount": 352181500
+			},
+			{
+				"day_unix": 1737504000,
+				"day": 20250122,
+				"num_transfers": "412898",
+				"total_trans_amount": 233325970
+			},
+			{
+				"day_unix": 1737590400,
+				"day": 20250123,
+				"num_transfers": "243295",
+				"total_trans_amount": 172548720
+			},
+			{
+				"day_unix": 1737676800,
+				"day": 20250124,
+				"num_transfers": "291500",
+				"total_trans_amount": 172063170
+			},
+			{
+				"day_unix": 1737763200,
+				"day": 20250125,
+				"num_transfers": "195907",
+				"total_trans_amount": 127430536
+			},
+			{
+				"day_unix": 1737849600,
+				"day": 20250126,
+				"num_transfers": "209689",
+				"total_trans_amount": 129040170
+			},
+			{
+				"day_unix": 1737936000,
+				"day": 20250127,
+				"num_transfers": "150789",
+				"total_trans_amount": 166514050
+			},
+			{
+				"day_unix": 1738022400,
+				"day": 20250128,
+				"num_transfers": "147004",
+				"total_trans_amount": 85351790
+			},
+			{
+				"day_unix": 1738108800,
+				"day": 20250129,
+				"num_transfers": "182337",
+				"total_trans_amount": 97111870
+			},
+			{
+				"day_unix": 1738195200,
+				"day": 20250130,
+				"num_transfers": "135942",
+				"total_trans_amount": 68736936
+			},
+			{
+				"day_unix": 1738281600,
+				"day": 20250131,
+				"num_transfers": "135717",
+				"total_trans_amount": 78878140
+			},
+			{
+				"day_unix": 1738368000,
+				"day": 20250201,
+				"num_transfers": "112001",
+				"total_trans_amount": 64440116
+			},
+			{
+				"day_unix": 1738454400,
+				"day": 20250202,
+				"num_transfers": "161676",
+				"total_trans_amount": 86349420
+			},
+			{
+				"day_unix": 1738540800,
+				"day": 20250203,
+				"num_transfers": "201048",
+				"total_trans_amount": 138222500
+			},
+			{
+				"day_unix": 1738627200,
+				"day": 20250204,
+				"num_transfers": "129897",
+				"total_trans_amount": 74013656
+			},
+			{
+				"day_unix": 1738713600,
+				"day": 20250205,
+				"num_transfers": "86764",
+				"total_trans_amount": 34500204
+			},
+			{
+				"day_unix": 1738800000,
+				"day": 20250206,
+				"num_transfers": "100774",
+				"total_trans_amount": 37930910
+			},
+			{
+				"day_unix": 1738886400,
+				"day": 20250207,
+				"num_transfers": "145354",
+				"total_trans_amount": 80376460
+			},
+			{
+				"day_unix": 1738972800,
+				"day": 20250208,
+				"num_transfers": "109050",
+				"total_trans_amount": 23437944
+			},
+			{
+				"day_unix": 1739059200,
+				"day": 20250209,
+				"num_transfers": "109670",
+				"total_trans_amount": 34214256
+			},
+			{
+				"day_unix": 1739145600,
+				"day": 20250210,
+				"num_transfers": "104434",
+				"total_trans_amount": 36526092
+			},
+			{
+				"day_unix": 1739232000,
+				"day": 20250211,
+				"num_transfers": "120395",
+				"total_trans_amount": 42484620
+			},
+			{
+				"day_unix": 1739318400,
+				"day": 20250212,
+				"num_transfers": "107162",
+				"total_trans_amount": 36798176
+			},
+			{
+				"day_unix": 1739404800,
+				"day": 20250213,
+				"num_transfers": "79690",
+				"total_trans_amount": 19667892
+			},
+			{
+				"day_unix": 1739491200,
+				"day": 20250214,
+				"num_transfers": "139092",
+				"total_trans_amount": 57400796
+			},
+			{
+				"day_unix": 1739577600,
+				"day": 20250215,
+				"num_transfers": "76212",
+				"total_trans_amount": 20755942
+			},
+			{
+				"day_unix": 1739664000,
+				"day": 20250216,
+				"num_transfers": "57185",
+				"total_trans_amount": 18858392
+			},
+			{
+				"day_unix": 1739750400,
+				"day": 20250217,
+				"num_transfers": "84348",
+				"total_trans_amount": 29122352
+			},
+			{
+				"day_unix": 1739836800,
+				"day": 20250218,
+				"num_transfers": "96915",
+				"total_trans_amount": 73022260
+			},
+			{
+				"day_unix": 1739923200,
+				"day": 20250219,
+				"num_transfers": "71444",
+				"total_trans_amount": 16741839
+			},
+			{
+				"day_unix": 1740009600,
+				"day": 20250220,
+				"num_transfers": "59727",
+				"total_trans_amount": 11703345
+			},
+			{
+				"day_unix": 1740096000,
+				"day": 20250221,
+				"num_transfers": "95727",
+				"total_trans_amount": 24427134
+			},
+			{
+				"day_unix": 1740182400,
+				"day": 20250222,
+				"num_transfers": "72661",
+				"total_trans_amount": 20205142
+			},
+			{
+				"day_unix": 1740268800,
+				"day": 20250223,
+				"num_transfers": "59842",
+				"total_trans_amount": 27245856
+			},
+			{
+				"day_unix": 1740355200,
+				"day": 20250224,
+				"num_transfers": "45236",
+				"total_trans_amount": 14998497
+			}
+		]
+	},
+	"metadata": {
+		"tokens": {
+			"DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263": {
+				"token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+				"token_name": "Bonk",
+				"token_symbol": "Bonk",
+				"token_icon": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+				"token_decimals": 5,
+				"token_type": "token",
+				"price_usdt": 0.00001485,
+				"reputation": "ok",
+				"is_show_value": true,
+				"is_calculate_on_portfolio": true,
+				"is_show_icon": true,
+				"token_icon_alternative": null
+			},
+			"So11111111111111111111111111111111111111112": {
+				"token_address": "So11111111111111111111111111111111111111112",
+				"token_name": "Wrapped SOL",
+				"token_symbol": "SOL",
+				"token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+				"token_decimals": 9,
+				"token_type": "token",
+				"price_usdt": 158.5,
+				"reputation": "ok",
+				"is_show_value": true,
+				"is_calculate_on_portfolio": true,
+				"is_show_icon": true,
+				"token_icon_alternative": null
+			},
+			"So11111111111111111111111111111111111111111": {
+				"token_address": "So11111111111111111111111111111111111111111",
+				"token_decimals": 9,
+				"token_name": "SOL",
+				"token_symbol": "SOL",
+				"token_type": "token",
+				"token_icon": "https://statics.solscan.io/solscan-img/solana_icon.svg",
+				"price_usdt": 158.5,
+				"is_show_value": true,
+				"is_calculate_on_portfolio": true,
+				"is_show_icon": true
+			}
+		},
+		"accounts": {},
+		"tags": {},
+		"programs": {},
+		"nftCollections": {},
+		"nftMarketplaces": {}
+	}
+}
